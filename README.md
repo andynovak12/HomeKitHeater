@@ -10,4 +10,4 @@ I heavily relied on this library and its examples: https://github.com/Mixiaoxiao
 
 This is a mapping of the HomeKit state to the unit functions:
 
-<script src="https://gist.github.com/andynovak12/f68228228e0128a6035edbe0f74d0e1e.js"></script>
+<img width="566" alt="Screen Shot 2023-02-05 at 3 51 19 PM" src="https://user-images.githubusercontent.com/15303865/216845117-21ddc23d-3299-4809-8a74-69b25dfd112d.png">
