@@ -8,3 +8,5 @@ This repo contains the code for putting my heater on HomeKit as a thermostat, by
 
 I heavily relied on this library and its examples: https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266. Many thanks Mixiaoxiao for all the work put into it.
 
+This is a mapping of the HomeKit state to the unit functions:
+https://gist.github.com/andynovak12/f68228228e0128a6035edbe0f74d0e1e
